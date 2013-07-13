@@ -20,7 +20,7 @@ Numbers
 
 **Find PI to the Nth Digit** – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-[**Fibonacci Sequence**](https://github.com/dotOrion/Projects/blob/master/Numbers/fibonacci.lua) – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+[**Fibonacci Sequence**](Numbers/fibonacci.lua) – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
 **Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
@@ -51,9 +51,9 @@ Numbers
 Text
 ---------
 
-[**Reverse a String**](https://github.com/dotOrion/Projects/blob/master/Text/reverseastring.lua) – Enter a string and the program will reverse it and print it out.
+[**Reverse a String**](Text/reverseastring.lua) – Enter a string and the program will reverse it and print it out.
 
-**Pig Latin** – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
+[**Pig Latin**](Text/reverseastring.lua) – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
 **Count Vowels** – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 
